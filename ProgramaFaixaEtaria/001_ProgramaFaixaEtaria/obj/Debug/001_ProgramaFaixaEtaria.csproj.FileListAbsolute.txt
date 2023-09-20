@@ -1,0 +1,8 @@
+C:\Users\joaod\OneDrive\Documentos\Developtment\CSharp\001_ProgramaFaixaEtaria\001_ProgramaFaixaEtaria\001_ProgramaFaixaEtaria\bin\Debug\001_ProgramaFaixaEtaria.exe.config
+C:\Users\joaod\OneDrive\Documentos\Developtment\CSharp\001_ProgramaFaixaEtaria\001_ProgramaFaixaEtaria\001_ProgramaFaixaEtaria\bin\Debug\001_ProgramaFaixaEtaria.exe
+C:\Users\joaod\OneDrive\Documentos\Developtment\CSharp\001_ProgramaFaixaEtaria\001_ProgramaFaixaEtaria\001_ProgramaFaixaEtaria\bin\Debug\001_ProgramaFaixaEtaria.pdb
+C:\Users\joaod\OneDrive\Documentos\Developtment\CSharp\001_ProgramaFaixaEtaria\001_ProgramaFaixaEtaria\001_ProgramaFaixaEtaria\obj\Debug\001_ProgramaFaixaEtaria.csproj.AssemblyReference.cache
+C:\Users\joaod\OneDrive\Documentos\Developtment\CSharp\001_ProgramaFaixaEtaria\001_ProgramaFaixaEtaria\001_ProgramaFaixaEtaria\obj\Debug\001_ProgramaFaixaEtaria.csproj.SuggestedBindingRedirects.cache
+C:\Users\joaod\OneDrive\Documentos\Developtment\CSharp\001_ProgramaFaixaEtaria\001_ProgramaFaixaEtaria\001_ProgramaFaixaEtaria\obj\Debug\001_ProgramaFaixaEtaria.csproj.CoreCompileInputs.cache
+C:\Users\joaod\OneDrive\Documentos\Developtment\CSharp\001_ProgramaFaixaEtaria\001_ProgramaFaixaEtaria\001_ProgramaFaixaEtaria\obj\Debug\001_ProgramaFaixaEtaria.exe
+C:\Users\joaod\OneDrive\Documentos\Developtment\CSharp\001_ProgramaFaixaEtaria\001_ProgramaFaixaEtaria\001_ProgramaFaixaEtaria\obj\Debug\001_ProgramaFaixaEtaria.pdb

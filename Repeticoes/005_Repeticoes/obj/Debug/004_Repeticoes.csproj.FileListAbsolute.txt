@@ -1,0 +1,8 @@
+C:\Users\tigal\OneDrive\Documentos\Development\CSharp\004_Repeticoes\004_Repeticoes\004_Repeticoes\bin\Debug\004_Repeticoes.exe.config
+C:\Users\tigal\OneDrive\Documentos\Development\CSharp\004_Repeticoes\004_Repeticoes\004_Repeticoes\bin\Debug\004_Repeticoes.exe
+C:\Users\tigal\OneDrive\Documentos\Development\CSharp\004_Repeticoes\004_Repeticoes\004_Repeticoes\bin\Debug\004_Repeticoes.pdb
+C:\Users\tigal\OneDrive\Documentos\Development\CSharp\004_Repeticoes\004_Repeticoes\004_Repeticoes\obj\Debug\004_Repeticoes.csproj.AssemblyReference.cache
+C:\Users\tigal\OneDrive\Documentos\Development\CSharp\004_Repeticoes\004_Repeticoes\004_Repeticoes\obj\Debug\004_Repeticoes.csproj.SuggestedBindingRedirects.cache
+C:\Users\tigal\OneDrive\Documentos\Development\CSharp\004_Repeticoes\004_Repeticoes\004_Repeticoes\obj\Debug\004_Repeticoes.csproj.CoreCompileInputs.cache
+C:\Users\tigal\OneDrive\Documentos\Development\CSharp\004_Repeticoes\004_Repeticoes\004_Repeticoes\obj\Debug\004_Repeticoes.exe
+C:\Users\tigal\OneDrive\Documentos\Development\CSharp\004_Repeticoes\004_Repeticoes\004_Repeticoes\obj\Debug\004_Repeticoes.pdb

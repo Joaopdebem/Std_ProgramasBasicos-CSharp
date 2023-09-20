@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "005_Repeticoes", "004_Repeticoes\005_Repeticoes.csproj", "{B5889526-AE7E-4AEC-94BE-8C330517BB1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5889526-AE7E-4AEC-94BE-8C330517BB1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5889526-AE7E-4AEC-94BE-8C330517BB1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5889526-AE7E-4AEC-94BE-8C330517BB1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5889526-AE7E-4AEC-94BE-8C330517BB1F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29C26C47-592D-4E21-B3B8-56EAB2559A3C}
+	EndGlobalSection
+EndGlobal

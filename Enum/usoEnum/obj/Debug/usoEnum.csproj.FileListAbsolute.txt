@@ -1,0 +1,8 @@
+C:\Users\tigal\OneDrive\Documentos\Development\CSharp\003_Enum\usoEnum\usoEnum\bin\Debug\usoEnum.exe.config
+C:\Users\tigal\OneDrive\Documentos\Development\CSharp\003_Enum\usoEnum\usoEnum\bin\Debug\usoEnum.exe
+C:\Users\tigal\OneDrive\Documentos\Development\CSharp\003_Enum\usoEnum\usoEnum\bin\Debug\usoEnum.pdb
+C:\Users\tigal\OneDrive\Documentos\Development\CSharp\003_Enum\usoEnum\usoEnum\obj\Debug\usoEnum.csproj.AssemblyReference.cache
+C:\Users\tigal\OneDrive\Documentos\Development\CSharp\003_Enum\usoEnum\usoEnum\obj\Debug\usoEnum.csproj.SuggestedBindingRedirects.cache
+C:\Users\tigal\OneDrive\Documentos\Development\CSharp\003_Enum\usoEnum\usoEnum\obj\Debug\usoEnum.csproj.CoreCompileInputs.cache
+C:\Users\tigal\OneDrive\Documentos\Development\CSharp\003_Enum\usoEnum\usoEnum\obj\Debug\usoEnum.exe
+C:\Users\tigal\OneDrive\Documentos\Development\CSharp\003_Enum\usoEnum\usoEnum\obj\Debug\usoEnum.pdb
