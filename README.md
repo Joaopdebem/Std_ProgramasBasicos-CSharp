@@ -1,1 +1,1 @@
-# -Std-ProgramasBasicos---CSharp
+# Programas básicos em C# de aprendizado iniciante.
